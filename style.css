@@ -6,12 +6,5 @@
 @import url('components/card.css');
 
 body{
-  font-family: "Playwrite GB S", cursive;
-  font-optical-sizing: auto;
-  font-weight: 400px ;
   font-style: normal;
-  font-size: 18px;
-  margin-bottom: 40px;
-  margin-left: 50px;
-  margin-right: 50px ;
 }
