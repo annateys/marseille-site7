@@ -47,6 +47,20 @@ text-decoration: none;
  border-radius: 50%;
 }
 
+.banner {
+background-image: url(../../marseille-port.jpeg);
+color: white;
+padding: 100px 20px;
+background-size: cover;
+}
+
+.banner h1 {
+	font-size: 30px;
+	font weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px ;
+}
+
 .btn-blue{
 background-color: blue;
 padding: 15px 20px;
